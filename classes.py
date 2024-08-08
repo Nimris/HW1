@@ -111,6 +111,6 @@ class ConsoleView(View):
             "add-birthday <name> <birthday> - Add a birthday to an existing contact",
             "birthday <name> - Show a contact's birthday",
             "upcoming - Show upcoming birthdays for the next 7 days",
-            "random - Show a random number",
+            "random - Show a random number and birthday",
             "close - Exit the program", 
             "help - Show all valid commands", sep='\n')
